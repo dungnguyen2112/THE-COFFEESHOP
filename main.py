@@ -27,4 +27,4 @@ app.include_router(revenue_router)
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Flower Shop API"}
+    return {"message": "Welcome to the Flower Shop API meo meo"}
