@@ -1,4 +1,4 @@
-Backend Development Intern Project (The Coffeeshop System)
+# Backend Development Intern Project (The Coffeeshop System)
 
 API Development: Developed and maintained RESTful API endpoints using FastAPI for The Coffeeshop system. Key functionalities include:
 
@@ -58,7 +58,7 @@ GET /revenue/statistics/yearly: Yearly revenue statistics
 
 Technologies: FastAPI, SQLAlchemy, MySQL, JWT for authentication
 
-Steps to Run The Coffeeshop API Project
+# Steps to Run The Coffeeshop API Project
 
 Clone the Repository:
 
